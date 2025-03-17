@@ -17,14 +17,6 @@ Ensure you have Python installed. Then, install the required dependencies:
 pip install PyQt5 PyQtWebEngine
 ```
 
-## Installation
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/pyqt-web-browser.git
-cd pyqt-web-browser
-```
-
 ## Contributing
 Pull requests are welcome! Please follow the contribution guidelines.
 
