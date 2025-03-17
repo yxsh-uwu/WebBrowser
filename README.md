@@ -1,14 +1,37 @@
-# Eden Browser
-### Qt5 Material Design Web Browser
+# PyQt Web Browser
 
-This started off as a part of my python course, but I just kind of got into it, and am really enjoying building this.  So now I'm planning on continuing this, and will make builds for Windows, macOS, and Linux.
+A lightweight web browser built using Python and PyQt.
+Created as part of Udemy Certification.
 
-Dev tools are now fully implemented.
+## Features
+- Basic navigation (back, forward, refresh, home)
+- Address bar for entering URLs
+- Tab support
+- Bookmarks management
+- Customizable homepage
 
-![Alt text](screenshots/dev-tools.png?raw=true "Eden 0.1.3")
+## Requirements
+Ensure you have Python installed. Then, install the required dependencies:
 
-Old Screens
+```bash
+pip install PyQt5 PyQtWebEngine
+```
 
-![Alt text](screenshots/browser2.png?raw=true "Eden 0.1.3")
+## Installation
+Clone the repository:
 
+```bash
+git clone https://github.com/yourusername/pyqt-web-browser.git
+cd pyqt-web-browser
+```
+
+## Contributing
+Pull requests are welcome! Please follow the contribution guidelines.
+
+## License
+This project is licensed under the MIT License.
+
+## Acknowledgments
+- PyQt Documentation
+- Qt WebEngineView for rendering web pages
 
